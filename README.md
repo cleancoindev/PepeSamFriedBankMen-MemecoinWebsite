@@ -1,4 +1,4 @@
-# PEPE_Sam-Friend-BankMen Memecoin Website
+# PEPE_Sam-Fried-BankMen Memecoin Website
 
 ## Description
 
