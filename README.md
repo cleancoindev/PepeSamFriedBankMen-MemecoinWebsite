@@ -1,8 +1,8 @@
-# PEPE Memecoin Website
+# PEPE_Sam-Friend-BankMen Memecoin Website
 
 ## Description
 
-This project is a single-page website dedicated to PEPE, the crypto memecoin. The website provides information on how to buy PEPE, a humorous disclaimer about the coin, and a call to action section. It is designed to be both informative and entertaining, reflecting the playful nature of the memecoin.
+This project is a single-page website dedicated to PEPE and the SBF fiascos, homage to the history, the crypto memecoin. The website provides information on how to buy PEPE $SFBM, a humorous disclaimer about the coin, and a call to action section. It is designed to be both informative and entertaining, reflecting the playful nature of the memecoin.
 
 ## Technologies Used
 
